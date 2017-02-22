@@ -1,2 +1,3 @@
-# hello-word1
-Bonjour le monde1
+# hello-word
+Bonjour le monde
+Je m'apppelle Fanck Chabuel et j'aime la programmation
